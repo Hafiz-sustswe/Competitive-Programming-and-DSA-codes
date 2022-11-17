@@ -1,2 +1,4 @@
-# My-CP-Notes-Codes
-This is just test file
+# Here I'm Storing Data Structure and Algoritm Codes essential for Competitive programming
+
+
+
